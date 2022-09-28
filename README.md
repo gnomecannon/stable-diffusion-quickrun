@@ -1,5 +1,12 @@
 # stable-diffusion-quickrun
-This is a batch script meant to simplify generating images using Stable Diffusion.  
+This is a batch script meant to simplify generating images using Stable Diffusion. 
+
+This does *not* install or condigure Stable Diffusion itself, or contain any files provided by Stable Diffusion. I am completely unaffiliated with the Stable Diffusion project. Please only attempt to use this after you have successfully installed and used Stable Diffusion on your local Windows system.
+
+Requirements:
+Working installation of Stable Diffusion (tested with version 1.4) https://github.com/CompVis/stable-diffusion
+Working installation of miniconda3 (required by Stable Diffusion)
+
 
 Adds input reads to simply setting prompt parameters.
 
